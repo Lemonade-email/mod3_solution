@@ -1,0 +1,109 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color:#FDF0D5;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #331832;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand h1 { /* food llc */
+  font-family: 'Russo One', sans-serif;
+  font-size: 1.5em;
+  color: #C6D8D3;
+   font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 10px;
+
+}
+#nav-list a {
+
+  font-size: 20px;
+  color: #C6D8D3;
+
+}
+#nav-list a:hover {
+  background: #D81E5B;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #C6D8D3 opacity:0.7;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+
+p {
+  
+font-family: 'Righteous', cursive;
+
+  font-size: 30px;
+  color: #D81E5B;
+
+}
+/* END HEADER */
+
+
+/* HOME PAGE */
+.container .tall {
+  color: #331832;
+  background-color: #C6D8D3;
+  font-family: 'Arvo', serif;
+  height: 2000px;
+  text-align: center;
+  padding: 20px;
+ margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.container .tall  h3{
+  color: #F0544F;
+  font-family: 'Russo One', sans-serif;
+  font-size: 150%;
+}
+
+
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+  
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+ 
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  /* Header */
+  
+  
+  
+  
+
+  /* End Header */
+
+  
+
+
+
